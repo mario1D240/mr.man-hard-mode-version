@@ -3448,6 +3448,12 @@
                                         </condition>
                                     </conditions>
                                     <actions>
+                                        <action id="0" name="Play" sid="275756947417676" type="Audio">
+                                            <param id="0" name="Audio file">PlayerDamaged</param>
+                                            <param id="2" name="Loop">0</param>
+                                            <param id="3" name="Volume">0</param>
+                                            <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                                        </action>
                                         <action id="0" name="Play" sid="7693770790135112" type="Audio">
                                             <param id="0" name="Audio file">Slam</param>
                                             <param id="2" name="Loop">0</param>
@@ -3553,6 +3559,12 @@
                                         </condition>
                                     </conditions>
                                     <actions>
+                                        <action id="0" name="Play" sid="928541963036935" type="Audio">
+                                            <param id="0" name="Audio file">PlayerDamaged</param>
+                                            <param id="2" name="Loop">0</param>
+                                            <param id="3" name="Volume">0</param>
+                                            <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                                        </action>
                                         <action id="0" name="Play" sid="8703354903927214" type="Audio">
                                             <param id="0" name="Audio file">Slam</param>
                                             <param id="2" name="Loop">0</param>
