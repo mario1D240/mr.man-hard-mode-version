@@ -47,9 +47,9 @@
 0.8,GasterBlaster,1,0,0,201,226,45,0.5,0.3,
 0,GasterBlaster,1,0,640,446,226,135,0.5,0.3,
 0.5,GasterBlaster,2,0,640,486,340,180,0.2,0.1,
-1.0,SansText,let going to a exam time
-3.0,EndAttack,,,
+1.0,SansText,let going to a exam time,,,
 1,BoneStab,1,60,0.3,0.2,
 0,BoneStab,2,100,0.3,0.2,
 0,BoneStab,3,60,0.3,0.2,
 0,BoneStab,0,100,0.3,0.2,
+3.0,EndAttack,,,
